@@ -1,0 +1,10 @@
+# секреты и личные данные
+.env
+tasks.json
+tasks.json.tmp
+
+# текст ответа на «привет» (заполняется локально) и выгрузка переписки
+privet.txt
+perepiska-so-skrinami.pdf
+
+__pycache__/
